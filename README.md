@@ -21,4 +21,8 @@ Para hacerlo sin gulp y demas podemos tener el json asi(Podemos agregar --watch 
     "sass": "^1.83.0"
   }
 }
+```
 
+Podemos importar bootstrap completo o podemos importarlos por partes
+
+Utilizar purgue css
