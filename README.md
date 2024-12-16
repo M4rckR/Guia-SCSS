@@ -3,7 +3,7 @@
 Comando para utilizar sass con bs: `npm i --save-dev bootstrap sass`
 
 
-Para hacerlo sin gulp y demas podemos tener el json asi: 
+Para hacerlo sin gulp y demas podemos tener el json asi(Podemos agregar --watch para hacerlo permanente)
 
 ```json
 {
